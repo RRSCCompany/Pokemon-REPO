@@ -43,7 +43,7 @@ private Container cp;
 private JCheckBox cbSaudavel = new JCheckBox("Saudavel", false);
 private JLabel lbvazio = new JLabel("");
 
-private JLabel lbID = new JLabel("ID");
+private JLabel lbID = new JLabel("ID do Pokemon");
 private JLabel lbNome = new JLabel("Nome");
 private JLabel lbNatureza = new JLabel("Natureza");
 private JLabel lbForca = new JLabel("Força");
