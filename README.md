@@ -1,1 +1,3 @@
-### CRUD de Pokemons!
+# CRUD de Pokemons!
+
+Quer contribuir? Contribua!
